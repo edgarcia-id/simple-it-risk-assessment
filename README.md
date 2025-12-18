@@ -5,7 +5,7 @@ A web-based tool to identify, analyze, and evaluate IT risks based on ISO 27005 
 
 **A lightweight, web-based tool to conduct quantitative IT Risk Assessments based on ISO 27005 concepts.**
 
-Live Demo: [https://edgarcia-id.github.io/simple-it-risk-assessment/](LINK_DEMO)
+Live Demo: [https://edgarcia-id.github.io/simple-it-risk-assessment/]((https://edgarcia-id.github.io/simple-it-risk-assessment/))
 
 ### 🧐 Why use this tool?
 Managing IT Risks shouldn't always require expensive GRC software. For SMEs or initial audits, a simple matrix is often enough.
