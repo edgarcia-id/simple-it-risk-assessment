@@ -34,4 +34,4 @@ The risk score is calculated using a standard 5x5 matrix:
 
 ---
 **Maintained by:** Ed Garcia - [NusaIT.com](https://nusait.com)
-*Need a full IT Audit or ISO 27001 Consultation? [Contact Me](https://nusait.com/contact)*
+*Need another IT Consultation? [Contact Me](https://nusait.com/contact)*
